@@ -1,0 +1,8 @@
+{
+  "name": "Finance Buddy: Receipt Scanner",
+  "description": "An intelligent receipt scanner that uses Gemini to automatically extract transaction details from uploaded receipt images.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
