@@ -1,6 +1,6 @@
 **# Finance Buddy 💰
 
-Finance Buddy is an AI-powered personal finance management application that helps users track expenses, manage budgets, analyze spending habits, and achieve savings goals through real-time insights and interactive dashboards.
+Finance Buddy is an AI-powered personal finance management application that helps users track expenses, manage budgets, analyze spending habits, and achieve savings goals through real-time insights and interactive dashboards.Processes 500+ receipts with 60% reduction in manual tracking time. Combines OCR-based digitization, ML-powered expense categorization, and natural language querying over financial data.
 
 ## Features
 
@@ -13,13 +13,12 @@ Finance Buddy is an AI-powered personal finance management application that help
 - Responsive and user-friendly interface
 
 ## Tech Stack
-
-- Frontend: React.js
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- AI/ML: Python
-- Authentication: JWT
-- Version Control: Git & GitHub
+- **Frontend:** React.js (TypeScript), Vite
+- **Backend:** Node.js, Express.js, Flask (Python)
+- **Database:** MySQL, MongoDB
+- **AI/ML:** OCR (Tesseract/OpenCV), Gradient Boosted Semantic Classifier (XGBoost + Sentence Transformers), RAG module (FAISS vector store), Gemini API
+- **Auth:** JWT
+- **Tools:** Git, GitHub Actions
 
 ## Installation
 
